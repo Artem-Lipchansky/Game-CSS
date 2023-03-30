@@ -34,13 +34,13 @@
 
     @keyframes cactusMov { 
     0%{
-        left:580px;
+        left: 580px;
 
 
     }
 
     100%{
-        left:20px;
+        left: -20px;
 
     }
 
@@ -49,7 +49,7 @@
 
     .jump{
 
-        animation: jump 1s  linear; }
+        animation: jump 0.3s  linear; }
        
        
        
@@ -74,7 +74,7 @@
 
             100% {
                 top: 150px;
-                
+
             }
         }
     
